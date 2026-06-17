@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Yoann
 
-🎓 Étudiant en **TSSR – Technicien Supérieur Systèmes & Réseaux**  
+🎓 Technicien Supérieur Systèmes & Réseaux
 📍 Basé à Lyon  
 💻 Passionné par l’administration systèmes, les réseaux, la virtualisation et les infrastructures.
 
